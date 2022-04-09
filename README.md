@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A DEMO APP ON HOW TO OPTIMIZE A REACT APPLICATION USING HOOKS AND AG GRID
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
